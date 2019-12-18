@@ -1,0 +1,4 @@
+index.vuebuild/*.js
+src/assets
+public
+dist
